@@ -1,5 +1,5 @@
 # LLM-Resume-Analyser-using-Unify 
-
+#### ** This repository is the main development repository for the LLM Resume Analyser. Originally forked from a repository with just a default GitHub README file, all development has been done here.
 
 [Demo](https://github.com/OscarArroyoVega/LLM_Resume_Analyser_Unify/assets/103512255/5cfbb620-e6e1-4cbb-b619-1b087e0b379b) 
 
