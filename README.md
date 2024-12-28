@@ -46,7 +46,7 @@ You find more model/provider information in the [Unify benchmark interface](http
 6. Gain insights on Resume match with the job offer and on how to improve your Resume
 
 ## Repository and Deployment
-The repository [link1](https://github.com/OscarArroyoVega/LLM_Resume_Analyser_Unify) [link2](https://github.com/Sanjay8602/LLM-Resume-Analyser-using-Unify).
+The repository [link1](https://github.com/OscarArroyoVega/LLM_Resume_Analyser_Unify).
 
 To run the application locally, follow these steps:
 1. Clone the repository to your local machine.
